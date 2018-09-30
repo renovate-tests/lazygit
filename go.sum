@@ -23,6 +23,8 @@ github.com/hashicorp/go-getter v0.0.0-20180809191950-4bda8fa99001 h1:MFPzqpPED05
 github.com/hashicorp/go-getter v0.0.0-20180809191950-4bda8fa99001/go.mod h1:6rdJFnhkXnzGOJbvkrdv4t9nLwKcVA+tmbQeUlkIzrU=
 github.com/hashicorp/go-safetemp v0.0.0-20180326211150-b1a1dbde6fdc h1:wAa9fGALVHfjYxZuXRnmuJG2CnwRpJYOTvY6YdErAh0=
 github.com/hashicorp/go-safetemp v0.0.0-20180326211150-b1a1dbde6fdc/go.mod h1:oaerMy3BhqiTbVye6QuFhFtIceqFoDHxNAB65b+Rj1I=
+github.com/hashicorp/go-safetemp v1.0.0 h1:2HR189eFNrjHQyENnQMMpCiBAsRxzbTMIgBhEyExpmo=
+github.com/hashicorp/go-safetemp v1.0.0/go.mod h1:oaerMy3BhqiTbVye6QuFhFtIceqFoDHxNAB65b+Rj1I=
 github.com/hashicorp/go-version v1.0.0 h1:21MVWPKDphxa7ineQQTrCU5brh7OuVVAzGOCnnCPtE8=
 github.com/hashicorp/go-version v1.0.0/go.mod h1:fltr4n8CU8Ke44wwGCBoEymUuxUHl09ZGVZPK5anwXA=
 github.com/hashicorp/hcl v0.0.0-20180404174102-ef8a98b0bbce h1:xdsDDbiBDQTKASoGEZ+pEmF1OnWuu8AQ9I8iNbHNeno=
@@ -35,6 +37,8 @@ github.com/jesseduffield/go-getter v0.0.0-20180822080847-906e15686e63 h1:Nrr/yUx
 github.com/jesseduffield/go-getter v0.0.0-20180822080847-906e15686e63/go.mod h1:fNqjRf+4XnTo2PrGN1JRb79b/BeoHwP4lU00f39SQY0=
 github.com/jesseduffield/gocui v0.0.0-20180919095827-4fca348422d8 h1:XxX+IqNOFDh1PnU4eZDzUomoKbuKCvwyEm5an/IxLQU=
 github.com/jesseduffield/gocui v0.0.0-20180919095827-4fca348422d8/go.mod h1:2RtZznzYKt8RLRwvFiSkXjU0Ei8WwHdubgnlaYH47dw=
+github.com/jesseduffield/gocui v0.0.0-20180921065632-03e26ff3f1de h1:fOC4rn3guef0ccanBR1+qjHmVIPo01gmZu1aCQndI/s=
+github.com/jesseduffield/gocui v0.0.0-20180921065632-03e26ff3f1de/go.mod h1:2RtZznzYKt8RLRwvFiSkXjU0Ei8WwHdubgnlaYH47dw=
 github.com/jesseduffield/termbox-go v0.0.0-20180919093808-1e272ff78dcb h1:cFHYEWpQEfzFZVKiKZytCUX4UwQixKSw0kd3WhluPsY=
 github.com/jesseduffield/termbox-go v0.0.0-20180919093808-1e272ff78dcb/go.mod h1:anMibpZtqNxjDbxrcDEAwSdaJ37vyUeM1f/M4uekib4=
 github.com/jmespath/go-jmespath v0.0.0-20160202185014-0b12d6b521d8 h1:12VvqtR6Aowv3l/EQUlocDHW2Cp4G9WJVH7uyH8QFJE=
