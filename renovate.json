@@ -1,6 +1,6 @@
 {
   "extends": ["config:base"],
-  "prHourlyLimit": 5,
+  "prHourlyLimit": 6,
   "go": {
     "enabled": true
   }
