@@ -29,7 +29,7 @@ require (
 	github.com/mattn/go-runewidth v0.0.2
 	github.com/mgutz/str v1.2.0
 	github.com/mitchellh/go-homedir v0.0.0-20180801233206-58046073cbff
-	github.com/mitchellh/go-testing-interface v0.0.0-20171004221916-a61a99592b77
+	github.com/mitchellh/go-testing-interface v1.0.0
 	github.com/mitchellh/mapstructure v0.0.0-20180715050151-f15292f7a699
 	github.com/nicksnyder/go-i18n v0.0.0-20180803040939-a16b91a3ba80
 	github.com/pelletier/go-buffruneio v0.2.0
