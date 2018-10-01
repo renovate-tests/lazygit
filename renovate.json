@@ -1,8 +1,5 @@
 {
-  "extends": ["config:base"],
+  "extends": ["config:base", ":gomod"],
   "prHourlyLimit": 0,
-  "prConcurrentLimit": 0,
-  "go": {
-    "enabled": true
-  }
+  "prConcurrentLimit": 0
 }
