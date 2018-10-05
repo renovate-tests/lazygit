@@ -62,3 +62,7 @@ require (
 )
 
 replace github.com/spf13/pflag => ../pflag
+replace github.com/xanzy/ssh-agent => ../ssh
+
+
+
